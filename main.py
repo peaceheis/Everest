@@ -42,6 +42,7 @@ class EverestApplication:
                 self.clean_up()
                 return
 
+
     def clean_up(self):
         return
 
